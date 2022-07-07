@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.specialBtn {
+    @apply bg-green-700;
+    @apply shadow-md;
+}
+
+/* rozšížení tailwind class, použítí jako u běžného css, přidělené class name je nadřezené */
+/* těm základním v tailwindu, zapisuje se viz. výše... nutné přidat @apply*/
