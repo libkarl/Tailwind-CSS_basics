@@ -1,2 +1,2 @@
 # Tailwind-CSS_basics
-## základní použití a funkcionalita Taiwind css
+### základní použití a funkcionalita Taiwind css
