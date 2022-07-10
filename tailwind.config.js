@@ -6,7 +6,11 @@ module.exports = {
       center: true,
       
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'js_bg': "url('/assets/bg.jpg')"
+      }
+    },
   },
   plugins: [],
 }
